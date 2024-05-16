@@ -9,13 +9,17 @@ CloudNestio is a project aimed at creating a scalable and resilient cloud-native
 The primary use case is to enable development teams to rapidly deploy and scale microservices-based applications without worrying about the underlying infrastructure.
 
 #### Tools:
-`Container Orchestration: Kubernetes`
-`Continuous Integration: Jenkins, CircleCI`
-`Continuous Deployment: Spinnaker, Argo CD`
-`Configuration Management: Helm, Ansible`
-`Monitoring and Logging: Prometheus, Grafana, Fluentd, Elasticsearch`
-`Service Mesh: Istio, Linkerd`
-`Version Control: Git, GitHub/GitLab`
+Container Orchestration: Kubernetes
+
+Continuous Integration: Jenkins, CircleCI
+
+Continuous Deployment: Spinnaker, Argo CD
+
+Configuration Management: Helm, Ansible
+
+Monitoring and Logging: Prometheus, Grafana, Fluentd, Elasticsearch
+Service Mesh: Istio, Linkerd
+Version Control: Git, GitHub/GitLab
 
 The project scope for CloudNest, as described earlier, is to create a scalable and resilient cloud-native application platform for hosting microservices. The platform will support automated deployment, scaling, and management of applications.
 
