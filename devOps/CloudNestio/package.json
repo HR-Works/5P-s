@@ -1,0 +1,15 @@
+{
+  "name": "cloudnestio",
+  "version": "1.0.0",
+  "description": "CloudNestio is a project aimed at creating a scalable and resilient cloud-native application platform for hosting microservices. The platform will support automated deployment, scaling, and management of applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
