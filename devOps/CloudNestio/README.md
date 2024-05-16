@@ -9,7 +9,8 @@ CloudNestio is a project aimed at creating a scalable and resilient cloud-native
 The primary use case is to enable development teams to rapidly deploy and scale microservices-based applications without worrying about the underlying infrastructure.
 
 #### Tools:
-Container Orchestration: Kubernetes
+
+`Container Orchestration`: Kubernetes
 
 `Continuous Integration`: Jenkins, CircleCI
 
